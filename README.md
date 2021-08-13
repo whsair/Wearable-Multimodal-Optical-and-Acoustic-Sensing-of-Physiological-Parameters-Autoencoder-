@@ -13,7 +13,7 @@
 - pyusb
 - sklearn
 - matplotlib
-- tflite_runtime (during running)
+- [tflite_runtime](https://www.tensorflow.org/lite/guide/python#learn_more) (during running)
 - tensorflow 2.x (training)
 - tensorflow 1.14 (on pi)
 
