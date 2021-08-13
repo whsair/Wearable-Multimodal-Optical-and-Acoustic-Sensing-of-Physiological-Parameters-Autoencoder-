@@ -1,18 +1,18 @@
 # Wearable-Multimodal-Optical-and-Acoustic-Sensing-of-Physiological-Parameters-Autoencoder
 
-
+### Aurther: Hongshuo Wang
 
 #### Director: [Professor Sri-Rajasekhar (Raj) Kothapalli](https://www.bme.psu.edu/department/directory-detail-g.aspx?q=szk416) & PHD. SUMIT AGRAWAL
 #### Range: 05/2021 - 08/2021
 ###### Only includes code 
 
-Aurther: Hongshuo Wang
 
 
-How to check the storage of the pi:
-cmd: df
 
-how to run the trained tensorflow-lite model:
+- How to check the storage of the pi:
+-- cmd: df
+
+- how to run the trained tensorflow-lite model:
 
 1. open the command windows
 
@@ -30,7 +30,7 @@ how to run the trained tensorflow-lite model:
 	* converted_model.tflite (converted tensorflow lite model)
 	* my_model_80_5000.h5 (og version of tensorflow model)
 
-how display live data(running Plotter_test.py or Plotter_test_og)
+- how display live data(running Plotter_test.py or Plotter_test_og)
 
 1. open the command windows
 
@@ -42,11 +42,11 @@ how display live data(running Plotter_test.py or Plotter_test_og)
 
 4. click run(green) icon
 
-How to train the tensorflow model using given X and y 
+- How to train the tensorflow model using given X and y 
+- or
+- How to convert h5 trained weight to tensorflow-lite version
 
-How to convert h5 trained weight to tensorflow-lite version
-
-look at my github repo: https://github.com/whsair/Wearable-Multimodal-Team-1
+- look at my github repo: https://github.com/whsair/Wearable-Multimodal-Team-1
 
 
 
