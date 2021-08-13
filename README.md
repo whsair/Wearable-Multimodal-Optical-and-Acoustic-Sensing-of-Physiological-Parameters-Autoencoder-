@@ -32,14 +32,14 @@ df
 
 1. open the command windows
 
-2. type cmd: 
+2. type cmd  (go to the tflite1 directory): 
 ```bash
-cd /home/pi/tflite1 (go to the tflite1 directory)
+cd /home/pi/tflite1
 ```
 
-3. type cmd: 
+3. type cmd (activate python visual-envir): 
 ```bash
-source tflite-env/bin/activate (activate python visual-envir)
+source tflite-env/bin/activate 
 ```
 
 4. type cmd: jupyter notebook (open jupyter notebook)
@@ -59,9 +59,9 @@ source tflite-env/bin/activate (activate python visual-envir)
 
 1. open the command windows
 
-2. type cmd: 
+2. type cmd (go to the tflite1 directory): 
 ```bash
-cd /home/pi/tflite1 (go to the tflite1 directory)
+cd /home/pi/tflite1 
 ```
 
 3. type cmd: 
