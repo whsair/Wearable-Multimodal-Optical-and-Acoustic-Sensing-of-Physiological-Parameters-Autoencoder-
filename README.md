@@ -6,7 +6,7 @@
 #### Range: 05/2021 - 08/2021
 ###### Only includes code 
 
-
+## Instruction on lab Pi
 
 
 - How to check the storage of the pi:
@@ -43,10 +43,14 @@
 4. click run(green) icon
 
 - How to train the tensorflow model using given X and y 
-- or
+	
+	- run [training_data.ipynb](https://github.com/whsair/Wearable-Multimodal-Optical-and-Acoustic-Sensing-of-Physiological-Parameters-Autoencoder-/blob/main/training_data.ipynb)
+
 - How to convert h5 trained weight to tensorflow-lite version
 
-- look at my github repo: https://github.com/whsair/Wearable-Multimodal-Team-1
+	
+
+	- run [generate_tf_lite_model.py](https://github.com/whsair/Wearable-Multimodal-Optical-and-Acoustic-Sensing-of-Physiological-Parameters-Autoencoder-/blob/main/generate_tf_lite_model.py)
 
 
 
