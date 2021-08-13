@@ -11,9 +11,9 @@
 
 #### How to check the storage of the pi:
 
-''' bash
+``` bash
 df
-'''
+```
 
 #### How to run the trained tensorflow-lite model:
 
