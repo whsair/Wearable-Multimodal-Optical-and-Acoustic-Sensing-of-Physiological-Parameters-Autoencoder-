@@ -10,15 +10,18 @@
 
 
 #### How to check the storage of the pi:
-	- cmd: df
+- type cmd: 
+	- df
 
 #### How to run the trained tensorflow-lite model:
 
 1. open the command windows
 
-2. type cmd: cd /home/pi/tflite1 (go to the tflite1 directory)
+2. type cmd: 
+	- cd /home/pi/tflite1 (go to the tflite1 directory)
 
-3. type cmd: source tflite-env/bin/activate (activate python visual-envir)
+3. type cmd: 
+	- source tflite-env/bin/activate (activate python visual-envir)
 
 4. type cmd: jupyter notebook (open jupyter notebook)
 	* demo2.ipynb (short demo to show the final workout)
@@ -37,11 +40,12 @@
 
 1. open the command windows
 
-2. type cmd: cd /home/pi/tflite1 (go to the tflite1 directory)
+2. type cmd: 
+	- cd /home/pi/tflite1 (go to the tflite1 directory)
 
-3. type cmd: sudo thonny Plotter_test_og.py
-	or
-   type cmd: sudo thonny Plotter_test.py
+3. type cmd: 
+	- sudo thonny Plotter_test_og.py
+   	- sudo thonny Plotter_test.py
 
 4. click run(green) icon
 
