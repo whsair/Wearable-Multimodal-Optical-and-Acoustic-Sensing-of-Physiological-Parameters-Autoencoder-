@@ -6,6 +6,19 @@
 #### Range: 05/2021 - 08/2021
 ###### Only includes code 
 
+## Installed packages
+- numpy
+- scipy
+- pdb
+- pyusb
+- sklearn
+- matplotlib
+- tflite_runtime (during running)
+- tensorflow 2.x (training)
+- tensorflow 1.14 (on pi)
+
+
+
 ## Instruction on lab Pi
 
 
