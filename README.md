@@ -20,10 +20,14 @@ df
 1. open the command windows
 
 2. type cmd: 
-	- cd /home/pi/tflite1 (go to the tflite1 directory)
+```bash
+cd /home/pi/tflite1 (go to the tflite1 directory)
+```
 
 3. type cmd: 
-	- source tflite-env/bin/activate (activate python visual-envir)
+```bash
+source tflite-env/bin/activate (activate python visual-envir)
+```
 
 4. type cmd: jupyter notebook (open jupyter notebook)
 	* demo2.ipynb (short demo to show the final workout)
@@ -43,11 +47,15 @@ df
 1. open the command windows
 
 2. type cmd: 
-	- cd /home/pi/tflite1 (go to the tflite1 directory)
+```bash
+cd /home/pi/tflite1 (go to the tflite1 directory)
+```
 
 3. type cmd: 
-	- sudo thonny Plotter_test_og.py
-   	- sudo thonny Plotter_test.py
+```bash
+sudo thonny Plotter_test_og.py
+sudo thonny Plotter_test.py
+```
 
 4. click run(green) icon
 
