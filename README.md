@@ -50,13 +50,15 @@
 
 #### How to train the tensorflow model using given X and y 
 	
-	- run [training_data.ipynb](https://github.com/whsair/Wearable-Multimodal-Optical-and-Acoustic-Sensing-of-Physiological-Parameters-Autoencoder-/blob/main/training_data.ipynb)
+- run [training_data.ipynb](https://github.com/whsair/Wearable-Multimodal-Optical-and-Acoustic-Sensing-of-Physiological-Parameters-Autoencoder-/blob/main/training_data.ipynb)
 
 #### How to convert h5 trained weight to tensorflow-lite version
 
-	
+- run [generate_tf_lite_model.py](https://github.com/whsair/Wearable-Multimodal-Optical-and-Acoustic-Sensing-of-Physiological-Parameters-Autoencoder-/blob/main/generate_tf_lite_model.py)
 
-	- run [generate_tf_lite_model.py](https://github.com/whsair/Wearable-Multimodal-Optical-and-Acoustic-Sensing-of-Physiological-Parameters-Autoencoder-/blob/main/generate_tf_lite_model.py)
+#### How to compare the results between lite model and og model
+
+- run [measure_running_speed.ipynb](https://github.com/whsair/Wearable-Multimodal-Optical-and-Acoustic-Sensing-of-Physiological-Parameters-Autoencoder-/blob/main/measure_running_speed.ipynb) 
 
 
 
