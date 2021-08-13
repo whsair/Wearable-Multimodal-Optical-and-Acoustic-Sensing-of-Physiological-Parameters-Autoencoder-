@@ -1,4 +1,4 @@
-# Wearable-Multimodal-Optical-and-Acoustic-Sensing-of-Physiological-Parameters-Autoencoder
+# Wearable Multimodal Optical and Acoustic Sensing of Physiological Parameters (Autoencoder)
 
 ### Aurther: Hongshuo Wang
 
