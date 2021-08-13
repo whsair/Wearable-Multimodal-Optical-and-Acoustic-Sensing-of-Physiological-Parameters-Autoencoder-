@@ -12,7 +12,7 @@
 #### How to check the storage of the pi:
 	- cmd: df
 
-#### how to run the trained tensorflow-lite model:
+#### How to run the trained tensorflow-lite model:
 
 1. open the command windows
 
@@ -33,7 +33,7 @@
 
 
 
-#### how display live data(running Plotter_test.py or Plotter_test_og)
+#### How display live data(running Plotter_test.py or Plotter_test_og)
 
 1. open the command windows
 
