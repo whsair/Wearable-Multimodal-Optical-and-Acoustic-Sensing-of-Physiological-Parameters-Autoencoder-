@@ -10,7 +10,7 @@
 
 
 - How to check the storage of the pi:
--- cmd: df
+	- cmd: df
 
 - how to run the trained tensorflow-lite model:
 
