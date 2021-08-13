@@ -11,7 +11,7 @@
 
 #### How to check the storage of the pi:
 
-'''bash
+''' bash
 df
 '''
 
