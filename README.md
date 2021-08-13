@@ -9,10 +9,10 @@
 ## Instruction on lab Pi
 
 
-- How to check the storage of the pi:
+#### How to check the storage of the pi:
 	- cmd: df
 
-- how to run the trained tensorflow-lite model:
+#### how to run the trained tensorflow-lite model:
 
 1. open the command windows
 
@@ -33,7 +33,7 @@
 
 
 
-- how display live data(running Plotter_test.py or Plotter_test_og)
+#### how display live data(running Plotter_test.py or Plotter_test_og)
 
 1. open the command windows
 
@@ -48,11 +48,11 @@
 
 
 
-- How to train the tensorflow model using given X and y 
+#### How to train the tensorflow model using given X and y 
 	
 	- run [training_data.ipynb](https://github.com/whsair/Wearable-Multimodal-Optical-and-Acoustic-Sensing-of-Physiological-Parameters-Autoencoder-/blob/main/training_data.ipynb)
 
-- How to convert h5 trained weight to tensorflow-lite version
+#### How to convert h5 trained weight to tensorflow-lite version
 
 	
 
