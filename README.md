@@ -10,7 +10,6 @@
 
 
 #### How to check the storage of the pi:
-- type cmd: 
 
 '''bash
 df
