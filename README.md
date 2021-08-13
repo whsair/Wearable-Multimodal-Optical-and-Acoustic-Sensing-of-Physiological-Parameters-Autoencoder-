@@ -30,6 +30,9 @@
 	* converted_model.tflite (converted tensorflow lite model)
 	* my_model_80_5000.h5 (og version of tensorflow model)
 
+
+
+
 - how display live data(running Plotter_test.py or Plotter_test_og)
 
 1. open the command windows
@@ -41,6 +44,9 @@
    type cmd: sudo thonny Plotter_test.py
 
 4. click run(green) icon
+
+
+
 
 - How to train the tensorflow model using given X and y 
 	
