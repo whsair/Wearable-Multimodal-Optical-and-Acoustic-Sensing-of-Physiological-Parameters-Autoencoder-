@@ -55,7 +55,7 @@ source tflite-env/bin/activate
 
 
 
-#### How display live data(running Plotter_test.py or Plotter_test_og)
+#### How to display live data(running Plotter_test.py or Plotter_test_og)
 
 1. open the command windows
 
